@@ -1,0 +1,1 @@
+db.movies.update({"_id":ObjectId("5c247f86c655d901a9f0bbc1")},{$set:{"synopsis":"A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."}})

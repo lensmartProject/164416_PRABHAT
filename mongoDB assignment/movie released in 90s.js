@@ -1,0 +1,1 @@
+db.movies.find({$and:[{"year":{$gte:"1990"}},{"year":{$lte:"2000"}}]}) 
